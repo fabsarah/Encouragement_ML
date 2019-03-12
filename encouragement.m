@@ -1,5 +1,5 @@
 function encouragement
-% A function for when the world is being a total jerk. Encouragement is a
+% A function for when the world (or Matlab...) is being a total jerk. Encouragement is a
 % tiny, adorabe (I assume) bot that lives in Matlab and dispenses
 % encouragement right to the command window.
 a = randi([1 10],1,1);
